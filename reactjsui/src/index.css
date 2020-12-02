@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.home__cart_image{
+  height: 300px;
+}
+
+.carddetails__image{
+  height: 300px;
+  width: 300px;
+}
